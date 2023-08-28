@@ -1,0 +1,7 @@
+a=10
+b=20
+min=0;
+if(a<b)
+min=a
+else
+min=b;
